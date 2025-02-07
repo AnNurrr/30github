@@ -1,0 +1,31 @@
+
+
+<dependencies>
+
+    <!-- https://mvnrepository.com/artifact/org.openjfx/javafx-controls -->
+    <dependency>
+        <groupId>org.openjfx</groupId>
+        <artifactId>javafx-controls</artifactId>
+        <version>25-ea+2</version>
+    </dependency>
+    <!-- JavaFX Controls -->
+    <dependency>
+        <groupId>org.openjfx</groupId>
+        <artifactId>javafx-controls</artifactId>
+        <version>17</version> <!-- Or latest stable version -->
+    </dependency>
+
+    <!-- JavaFX FXML (Optional) -->
+    <dependency>
+        <groupId>org.openjfx</groupId>
+        <artifactId>javafx-fxml</artifactId>
+        <version>17</version>
+    </dependency>
+
+    <!-- JavaFX Base -->
+    <dependency>
+        <groupId>org.openjfx</groupId>
+        <artifactId>javafx-base</artifactId>
+        <version>17</version>
+    </dependency>
+</dependencies>
